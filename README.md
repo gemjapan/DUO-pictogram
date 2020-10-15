@@ -1,1 +1,1 @@
-# DUO-pictogram
+# DUO pictogram
